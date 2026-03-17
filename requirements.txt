@@ -1,0 +1,5 @@
+torch
+nltk
+scikit-learn
+flask
+numpy
