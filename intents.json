@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Good morning", "Hey"],
+      "responses": ["Hello! How can I help you today?", "Hi there! What do you need help with?"]
+    },
+    {
+      "tag": "leave_policy",
+      "patterns": [
+        "How many leaves do I have",
+        "Leave balance",
+        "Casual leave details",
+        "Leave policy"
+      ],
+      "responses": [
+        "Employees are entitled to 12 casual leaves and 10 sick leaves per year.",
+        "You can check your leave balance on the HR portal."
+      ]
+    },
+    {
+      "tag": "salary",
+      "patterns": [
+        "When will salary be credited",
+        "Salary date",
+        "Payroll information"
+      ],
+      "responses": [
+        "Salaries are credited on the last working day of every month."
+      ]
+    },
+    {
+      "tag": "password_reset",
+      "patterns": [
+        "Reset my password",
+        "Forgot password",
+        "Cannot login to my account"
+      ],
+      "responses": [
+        "You can reset your password using the IT self-service portal."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you", "Goodbye"],
+      "responses": ["Goodbye! Have a great day.", "See you later."]
+    }
+  ]
+}
