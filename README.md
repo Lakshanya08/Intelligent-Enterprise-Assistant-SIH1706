@@ -74,6 +74,10 @@ Intelligent-Enterprise-Assistant/
 
 
 ---
+## Demo
+
+<img width="997" height="182" alt="image" src="https://github.com/user-attachments/assets/1b5d6d0c-68f1-408e-a989-60e4595522b1" />
+
 
 ## ⚙️ Installation
 
